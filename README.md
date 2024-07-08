@@ -6,7 +6,7 @@ This is a simple bash-written crawler taking a wordlist as a source of input.
 
 Clone the repo
 ```
-git clone https://github.com/asciiden/brawl.git
+git clone https://github.com/kubeden/brawl.git
 ```
 
 Make the script an executable
